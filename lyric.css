@@ -1,9 +1,13 @@
 body{
-    background-color: #1a1a1a;
+    background-color: #000;
 }
 div{
-    background-color: #7D00C9;
-    color: whitesmoke;
+    background-color: #1c1c1c;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.8;
+    border-radius: 10px;    
 }
 .white{
     color: whitesmoke;
@@ -12,3 +16,4 @@ div{
     color: whitesmoke;
 
 }
+
