@@ -10,3 +10,5 @@ Built while learning HTML/CSS — practice project for my web dev portfolio.
 
 ## Notes
 Next: add responsive styles and custom fonts.
+Live site:https://darun000.github.io/lyrics-page/lyrics.html
+
